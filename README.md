@@ -53,6 +53,7 @@ feature/calendar
 
 - **axios** : api 호출
 - **react-big-calendar** : 일정 이벤트 표시, 등록, 수정, 삭제 상호작용
+- **react-bootstrap** : css 디자인
 - **react-query** : 서버측 데이터 상태 관리
 - **styled-components** : css-in-js
 - **zustand** : 클라이언트측 데이터 상태 관리
